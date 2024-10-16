@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development with Node.js and Express, and I'm also diving into data science.
 - 🌱 I’m currently learning Node.js, Express, and building RESTful APIs.
 - 💞️ I’m looking to collaborate on data science projects and backend development.
-- 📫 How to reach me: riazmohib@gmail.com
+- 📫 How to reach me: riazmohib@gmail.com  linkedin.com/in/mohibriaz
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I believe in making your ideas real, one line of code at a time!
 
